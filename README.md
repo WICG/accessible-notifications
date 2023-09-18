@@ -4,7 +4,8 @@
 This is the repository for ARIA Accessible Notifications. You're welcome to
 [contribute](CONTRIBUTING.md)!
 
-To fill this out, please see: https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers.md
+To fill this out, please see: https://github.com/w3ctag/tag.w3.org/blob/main/explainers/index.md
+
 ## Authors:
 
 - @douggeoffray
